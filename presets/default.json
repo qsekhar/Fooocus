@@ -40,7 +40,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "Mklan_XXX_NSFW_Pony.safetensors" : "https://civitai.com/api/download/models/509812?token=546244010b9535fcfab96470b7a85501",
-        "iNiverse_Mix_XL.safetensors": "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501"
+        /* "iNiverse_Mix_XL.safetensors": "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501" */
     },
     "embeddings_downloads": {},
     "lora_downloads": {
