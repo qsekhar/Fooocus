@@ -1,11 +1,11 @@
 {
-    "default_model": "iNiverse_Mix_XL.safetensors",
+    "default_model": "Mklan_XXX_NSFW_Pony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "Mklan_XXX_NSFW_Pony.safetensors",
+            "DigitalLustV1.0.safetensors",
             0.1
         ],
         [
