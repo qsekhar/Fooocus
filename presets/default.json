@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut.safetensors",
+    "default_model": "iNiverse_Mix_XL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,7 +39,7 @@
     "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Juggernaut.safetensors" : "https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16&token=546244010b9535fcfab96470b7a85501"
+        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
