@@ -1,11 +1,11 @@
 {
-    "default_model": "Mklan_XXX_NSFW_Pony.safetensors",
+    "default_model": "Juggernaut.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "DigitalLustV1.0.safetensors",
+            "Indian_Doll_Likeness.safetensors",
             0.1
         ],
         [
@@ -39,11 +39,13 @@
     "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Mklan_XXX_NSFW_Pony.safetensors" : "https://civitai.com/api/download/models/509812?token=546244010b9535fcfab96470b7a85501"
+        "Juggernaut.safetensors" : "https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16&token=546244010b9535fcfab96470b7a85501"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "DigitalLustV1.0.safetensors": "https://civitai.com/api/download/models/393940?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
+        "Indian_Dress_Collection_By_Stable_Yogi.safetensors": "https://civitai.com/api/download/models/389836?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
+        "Indian_Doll_Likeness.safetensors": "https://civitai.com/api/download/models/56097?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
+        "Indian_B.safetensors": "https://civitai.com/api/download/models/336148?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
