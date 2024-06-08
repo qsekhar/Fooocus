@@ -43,7 +43,8 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Skirtlift_XL.safetensors":"https://civitai.com/api/download/models/142611?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
+        "Skirtlift_XL.safetensors":"https://civitai.com/api/download/models/142611?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
+        "SB.safetensors":"https://civitai.com/api/download/models/162417?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
