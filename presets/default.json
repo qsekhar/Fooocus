@@ -39,7 +39,6 @@
     "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501",
         "desi.safetensors" : "https://civitai.com/api/download/models/163158?type=Model&format=SafeTensor&size=full&fp=fp16?token=546244010b9535fcfab96470b7a85501"
     },
     "embeddings_downloads": {},
