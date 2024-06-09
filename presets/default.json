@@ -1,5 +1,5 @@
 {
-    "default_model": "Pony.safetensors",
+    "default_model": "desi.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,14 +39,12 @@
     "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Pony.safetensors": "https://civitai.com/api/download/models/515456?type=Model&format=SafeTensor&size=full&fp=fp16&token=546244010b9535fcfab96470b7a85501",
-        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501"
+        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501",
+        "desi.safetensors" : "https://civitai.com/api/download/models/163158?type=Model&format=SafeTensor&size=full&fp=fp16?token=546244010b9535fcfab96470b7a85501"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Skirtlift_XL.safetensors":"https://civitai.com/api/download/models/142611?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
-        "SB.safetensors":"https://civitai.com/api/download/models/162417?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
-        "Groping.safetensors":"https://civitai.com/api/download/models/498516?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
+        "Skirtlift_XL.safetensors":"https://civitai.com/api/download/models/142611?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
