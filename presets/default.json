@@ -5,7 +5,7 @@
     "default_loras": [
         [
             true,
-            "Skirtlift_XL.safetensors",
+            "SfromB.safetensors",
             0.1
         ],
         [
@@ -39,13 +39,13 @@
     "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/490639?token=546244010b9535fcfab96470b7a85501"
+        "iNiverse_Mix_XL.safetensors" : "https://civitai.com/api/download/models/481914?type=Model&format=SafeTensor&size=full&fp=fp16&token=546244010b9535fcfab96470b7a85501"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "Skirtlift_XL.safetensors":"https://civitai.com/api/download/models/142611?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
-        "SB.safetensors":"https://civitai.com/api/download/models/162417?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
-        "M.safetensors":"https://civitai.com/api/download/models/501393?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
+        "SfromB.safetensors":"https://civitai.com/api/download/models/162417?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
+        "Metallic.safetensors":"https://civitai.com/api/download/models/501393?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501",
         "BDSM.safetensors":"https://civitai.com/api/download/models/524430?type=Model&format=SafeTensor&token=546244010b9535fcfab96470b7a85501"
     },
     "previous_default_models": [
